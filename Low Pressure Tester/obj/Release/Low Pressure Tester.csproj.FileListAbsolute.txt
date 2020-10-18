@@ -1,0 +1,15 @@
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\bin\Release\Low Pressure Tester.exe.config
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\bin\Release\Low Pressure Tester.exe
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\bin\Release\Low Pressure Tester.pdb
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\bin\Release\EPPlus.dll
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\bin\Release\EPPlus.xml
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low_Pressure_Tester.CalibrationWindow.resources
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low_Pressure_Tester.LowPressureTester.resources
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low_Pressure_Tester.Properties.Resources.resources
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low_Pressure_Tester.TestingWindow.resources
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low Pressure Tester.csproj.GenerateResource.cache
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low Pressure Tester.csproj.CoreCompileInputs.cache
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low Pressure Tester.csproj.CopyComplete
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low Pressure Tester.exe
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low Pressure Tester.pdb
+C:\Users\mkastl88\source\repos\CheckInGUI\Low Pressure Tester\obj\Release\Low Pressure Tester.csprojAssemblyReference.cache
